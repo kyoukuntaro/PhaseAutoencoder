@@ -1,6 +1,7 @@
 # Phase autoencoder for limit-cycle oscillators
-This is the program used in the following paper.
-
+This is the program used in the following paper.\
+Title: Phase autoencoder for limit-cycle oscillators\
+Author: Koichiro Yawata, Kai Fukami, Kunihiko Taira, Hiroya Nakao\
 arxiv preprint: https://arxiv.org/abs/2403.06992
 
 ## Files
